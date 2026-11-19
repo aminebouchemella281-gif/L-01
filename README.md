@@ -1,5 +1,4 @@
 L-01
-
 An open experimental standard for interoperability and communication between independent AI agents.
 
 Vision
